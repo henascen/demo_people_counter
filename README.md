@@ -18,7 +18,7 @@ The project aims to count the people that goes in and out of a room by capturing
 After assigning an ID to a detection and tracking it throug several frames, its direction and position help to determine wheter the person has gone in or out.
 
 # Results
-* ![Video example](https://www.youtube.com/watch?v=pKjkLgWlUbg&feature=youtu.be)
+* [![Results video](https://img.youtube.com/vi/pKjkLgWlUbg/0.jpg)](//www.youtube.com/watch?v=pKjkLgWlUbg "Results people counter")
 * ![image](results_tflite.jpg)
 
 ## TO-DO
